@@ -1,0 +1,1 @@
+Some notes from Python AI Course
